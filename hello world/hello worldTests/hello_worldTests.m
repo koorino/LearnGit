@@ -1,19 +1,19 @@
 //
-//  learnGitTests.m
-//  learnGitTests
+//  hello_worldTests.m
+//  hello worldTests
 //
-//  Created by Junfeng on 1/29/15.
-//  Copyright (c) 2015 ACFunclub. All rights reserved.
+//  Created by Leslie on 3/14/15.
+//  Copyright (c) 2015 Leslie. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface learnGitTests : XCTestCase
+@interface hello_worldTests : XCTestCase
 
 @end
 
-@implementation learnGitTests
+@implementation hello_worldTests
 
 - (void)setUp {
     [super setUp];
